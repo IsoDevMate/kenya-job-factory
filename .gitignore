@@ -15,5 +15,6 @@
 !/scripts/soak_test_factory.py
 !/scripts/send_outreach.py
 !/scripts/outreach.py
+!/scripts/check_layout.py
 !/scripts/match_role.py
 !/scripts/jev_omniroute_adapter.py

@@ -1,0 +1,19 @@
+# Ignore everything by default — this workspace mixes private identity data with code.
+*
+
+# Whitelist: the reusable engine only
+!/.gitignore
+!/README.md
+!/scripts
+/scripts/*
+!/scripts/factory_daily.sh
+!/scripts/scan_kenya_boards.py
+!/scripts/ingest_leads.py
+!/scripts/review_panel.py
+!/scripts/learn.py
+!/scripts/log_apply.py
+!/scripts/soak_test_factory.py
+!/scripts/send_outreach.py
+!/scripts/outreach.py
+!/scripts/match_role.py
+!/scripts/jev_omniroute_adapter.py
